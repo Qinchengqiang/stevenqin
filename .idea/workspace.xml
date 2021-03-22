@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdf242e4-01c8-4bbc-bff8-3f755d7882eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <updated>1615186786651</updated>
       <workItem from="1615186788313" duration="122000" />
       <workItem from="1615195904129" duration="890000" />
-      <workItem from="1615211275281" duration="18084000" />
+      <workItem from="1615211275281" duration="19412000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1615275673613</created>
@@ -96,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615335314695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update contents">
+      <created>1615336084359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615336084360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update contents">
+      <created>1615336214165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615336214165</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,16 +130,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="update responsive design" />
-    <option name="LAST_COMMIT_MESSAGE" value="update responsive design" />
+    <MESSAGE value="update contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="update contents" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2926" y="511" width="704" height="665" key="EditFileWatcherDialog" timestamp="1615253540001">
       <screen x="1440" y="23" width="2560" height="1417" />
     </state>
     <state x="2926" y="511" width="704" height="665" key="EditFileWatcherDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1615253540001" />
-    <state x="2880" y="475" key="Vcs.Push.Dialog.v2" timestamp="1615335325924">
+    <state x="2880" y="475" key="Vcs.Push.Dialog.v2" timestamp="1615336247411">
       <screen x="1440" y="23" width="2560" height="1417" />
     </state>
-    <state x="2880" y="475" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1615335325924" />
+    <state x="2880" y="475" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1615336247411" />
   </component>
 </project>
