@@ -60,6 +60,7 @@
       <workItem from="1615186788313" duration="122000" />
       <workItem from="1615195904129" duration="890000" />
       <workItem from="1615211275281" duration="19412000" />
+      <workItem from="1616376469930" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1615275673613</created>
@@ -126,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
